@@ -1,6 +1,22 @@
 # AI Operations Decision Engine
+Turn raw operational data into actionable insights using automated analysis and AI-style recommendations.
 
-A web-based analytics tool that transforms raw operational data into actionable insights.
+## Live Demo
+Run locally:
+streamlit run app.py
+
+## Sample Output
+Upload a CSV with columns:
+Store, Transactions, Downtime, Errors
+
+The app will generate:
+- Key metrics
+- AI insights
+- Performance summary
+- Visual dashboard
+
+
+
 
 ## Features
 - Upload CSV data
