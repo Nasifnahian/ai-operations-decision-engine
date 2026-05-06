@@ -1,0 +1,5 @@
+branch_name,orders,outage_minutes,failures
+NYC,2000,60,15
+LA,1800,20,5
+Chicago,2200,10,2
+Miami,1500,35,8
